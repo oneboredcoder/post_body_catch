@@ -1,2 +1,2 @@
 # Usage
-`curl https://git.io/JvBN2 | python3 -`
+`curl -L https://git.io/JvBN2 | python3 -`
