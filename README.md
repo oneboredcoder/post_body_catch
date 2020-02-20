@@ -1,2 +1,2 @@
 # Usage
-`curl https://raw.githubusercontent.com/oneboredcoder/post_body_catch/master/catch.py | python3 -`
+`curl https://git.io/JvBN2 | python3 -`
